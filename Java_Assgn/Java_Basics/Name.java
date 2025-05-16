@@ -1,4 +1,6 @@
+// 2. Write a program to print your name. 
 package Java_Assgn.Java_Basics;
+
 // import scaneer classs from java.util package to take input
 import java.util.Scanner;
 

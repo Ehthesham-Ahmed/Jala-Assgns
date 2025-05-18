@@ -1,7 +1,7 @@
 // 1. Write a function for arithmetic operators(+,-,*,/)
 
-
 package Java_Assgn.Java_Operators;
+
 import java.util.Scanner;
 
 public class ArithmaticOperators {
@@ -9,15 +9,19 @@ public class ArithmaticOperators {
     static int sum(int a, int b) {
         return a + b;
     }
+
     static int sub(int a, int b) {
         return a - b;
     }
+
     static int mul(int a, int b) {
         return a * b;
     }
+
     static int div(int a, int b) {
         return a / b;
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter two numbers: ");
